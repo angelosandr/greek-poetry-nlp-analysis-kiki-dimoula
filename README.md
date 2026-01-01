@@ -30,7 +30,7 @@ Computational analysis of 28 poems by renowned Greek poet Kiki Dimoula using Nat
 ## 🚀 How to Run
 ```bash
 # Clone repository
-git clone https://github.com/your-username/greek-poetry-nlp-kiki-dimoula.git
+git clone https://github.com/your-username/greek-poetry-nlp-kiki-dimoula.gi](https://github.com/angelosandr/greek-poetry-nlp-analysis-kiki-dimoula/blob/main/README.md
 
 # Install dependencies
 pip install -r requirements.txt
