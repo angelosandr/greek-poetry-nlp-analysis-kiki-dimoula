@@ -24,7 +24,7 @@ Computational analysis of 28 poems by renowned Greek poet Kiki Dimoula using Nat
 ## 📊 Key Findings
 1. Most frequent themes: [θάνατος, χρόνος, σιωπή, etc.]
 2. Average lexical richness (TTR): 0.75
-3. Dominant sentiment: [Neutral/Melancholic]
+3. Dominant sentiment: [Subjectivity/Melancholic]
 
 
 ## 🚀 How to Run
